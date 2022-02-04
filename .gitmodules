@@ -1,0 +1,9 @@
+[submodule "Dacon"]
+	path = Dacon
+	url = https://github.com/penguin1109/Dacon.git
+[submodule "DACON_LightImageAI"]
+	path = DACON_LightImageAI
+	url = https://github.com/penguin1109/DACON_LightImageAI.git
+[submodule "dacon-lg-crop-"]
+	path = dacon-lg-crop-
+	url = https://github.com/penguin1109/dacon-lg-crop-.git
